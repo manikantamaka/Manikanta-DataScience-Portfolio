@@ -61,16 +61,16 @@ I Assume you know know what is Object-Detection and Object-Recognition and their
 .In this python project, we are going to build a chatbot using deep learning techniques. The chatbot will be trained on dataset which contains categories(intents) pattern and resposes. we use a special reccuent neural network (LSTM) to classify which category the user's message belongs to and then we will give a random resonse from the list of reponses.
 
 ## [Project5: Deploying Machine Learning Models into Heroku Platform using Streamlit : Project Overview](https://github.com/manikantamaka/deployment-using-Streamlit-in-heroku)
-.##### Took some random Datset
-.##### Did Modelling
-.##### saved in pickle 
-.##### Built web application using Streamlit
+##### Took some random Datset
+##### Did Modelling
+##### saved in pickle 
+##### Built web application using Streamlit
 
 ### Download Heroku in your Windows/Mac systems:
-.##### Create Account 
-.##### Connect your Github repository to Heroku
-.##### Select Automatic/Manual
-.##### Run the command.
+##### Create Account 
+##### Connect your Github repository to Heroku
+##### Select Automatic/Manual
+##### Run the command.
 
 
 ## [project6: Deploying ML Model into Heroku Platform by using Flasgger : Project Overview](https://github.com/manikantamaka/Deploying-ML-model-into-Heroku-Platform-by-using-Flasgger)
