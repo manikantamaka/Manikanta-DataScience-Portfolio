@@ -79,4 +79,4 @@ I Assume you know know what is Object-Detection and Object-Recognition and their
 ##### step no 2: saved into pickle
 ##### step no 3: created app by using flasgger( it's an easy way to create an "web app" without working on HTML)
 ##### step no 4: create new github repository 
-##### push it into heroku platform
+##### push it into heroku platform.
