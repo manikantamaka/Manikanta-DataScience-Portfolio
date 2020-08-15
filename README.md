@@ -66,8 +66,8 @@ I Assume you know know what is Object-Detection and Object-Recognition and their
 .saved in pickle 
 .Built web application using Streamlit
 
-#### Download Heroku in your Windows/Mac systems:
+### Download Heroku in your Windows/Mac systems:
 .Create Account 
 .Connect your Github repository to Heroku
 .Select Automatic/Manual
-.Run the command 
+.Run the command.
