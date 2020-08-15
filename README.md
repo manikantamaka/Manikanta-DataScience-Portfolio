@@ -1,2 +1,3 @@
 # ManikantaPortfolio
-Mk Data Science Portfolio
+
+project1: OCR project contains howto work on text and pdf
